@@ -4,6 +4,6 @@
 
 #### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
 
-#### Built with React. Check it out [here](https://ajrice1018.github.io/react-clicky-game/).
+#### Built with React. Check it out [here](https://simpsons-react-clicky.herokuapp.com/).
 
 ![screenshot](public/screenshot.png)
