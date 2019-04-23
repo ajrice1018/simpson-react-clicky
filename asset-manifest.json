@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simpson-react-clicky/static/css/main.6d82b7c6.chunk.css",
+    "main.js": "/simpson-react-clicky/static/js/main.b717e104.chunk.js",
+    "main.js.map": "/simpson-react-clicky/static/js/main.b717e104.chunk.js.map",
+    "runtime~main.js": "/simpson-react-clicky/static/js/runtime~main.7e096e58.js",
+    "runtime~main.js.map": "/simpson-react-clicky/static/js/runtime~main.7e096e58.js.map",
+    "static/js/2.884c28c3.chunk.js": "/simpson-react-clicky/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/simpson-react-clicky/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/simpson-react-clicky/index.html",
+    "precache-manifest.caf739d301bfb30624dd7c5cee33890a.js": "/simpson-react-clicky/precache-manifest.caf739d301bfb30624dd7c5cee33890a.js",
+    "service-worker.js": "/simpson-react-clicky/service-worker.js",
+    "static/css/main.6d82b7c6.chunk.css.map": "/simpson-react-clicky/static/css/main.6d82b7c6.chunk.css.map"
+  }
+}
